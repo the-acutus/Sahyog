@@ -5,7 +5,7 @@ Sahyog is a web portal that let's organizations and individuals to meet at a com
 
 > Sahyog(hi: *सहयोग*) **.verb** is a hindi word, meaning to cooperate.
 
-The idea of the portal is given by [CDK Global ltd.][cdk] and was developed in the **Grand Finale** of [**Smart India Hackathon 2019**][sih] help in Hyerabad.
+The idea of the portal is given by [CDK Global ltd.][cdk] and was developed in the **Grand Finale** of [**Smart India Hackathon 2019**][sih] held in Hyerabad.
 
 ## Features of the Portal
 The basic features of the Portal are:
